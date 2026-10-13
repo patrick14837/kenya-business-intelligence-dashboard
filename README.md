@@ -1,4 +1,4 @@
-# 🇰🇪 Kenya Business Intelligence Dashboard
+# Kenya Business Intelligence Dashboard
 
 > KNBS Economic Survey 2026 | Moringa School Capstone Project | Graduation: Nov 2026
 
