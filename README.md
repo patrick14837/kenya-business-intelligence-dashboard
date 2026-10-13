@@ -3,7 +3,7 @@
 > KNBS Economic Survey 2026 | Moringa School Capstone Project | Graduation: Nov 2026
 
 **Live Demo:** Coming Soon on Streamlit Cloud
-**Author:** patrick14837
+**Author:** Patrick Palex
 **Status:** MVP v0.1 - In Progress
 
 ### 📌 Overview
